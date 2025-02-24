@@ -1,0 +1,4 @@
+Public file1 class{
+	public static void main(String[]args);
+	System.out.println("hii");
+}
